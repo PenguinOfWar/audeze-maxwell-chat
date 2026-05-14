@@ -1,6 +1,6 @@
 # audeze-maxwell-chat
 
-Exposes the Audeze Maxwell Game and Chat outputs as separate PipeWire
+Exposes the Audeze Maxwell headset Game and Chat outputs as separate PipeWire
 sinks on Linux, replicating the split available on Windows without requiring
 Audeze software or sacrificing microphone support.
 
@@ -98,7 +98,7 @@ systemctl --user restart wireplumber
 
 ## Known issues
 
-- None, but I'm keen to hear of any issues you encounter.
+- None, but I'm keen to hear of any issues you encounter
 
 ## Disclaimer
 
