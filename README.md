@@ -42,7 +42,7 @@ PRODUCT_ID="0x4b19"
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/audeze-maxwell-chat
+git clone https://github.com/PenguinOfWar/audeze-maxwell-chat.git
 cd audeze-maxwell-chat
 chmod +x install-maxwell-chat.sh
 ./install-maxwell-chat.sh
